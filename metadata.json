@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tea Lang \u0026 Mini Bar",
+  "description": "Website resmi Tea Lang \u0026 Mini Bar — Fresh Tea, Coffee \u0026 Good Mood. Jelajahi latar belakang bisnis, daftar menu lengkap, dan pesan online langsung via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
